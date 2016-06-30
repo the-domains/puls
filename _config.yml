@@ -1,0 +1,14 @@
+layout_spectrum: 0.7854254660196602
+typography_spectrum: 0.2797198500484228
+color:
+  brandStrength: 0.3668742773588747
+  lightness: 0.6901469575241208
+  saturation: 0.320998725714162
+  rhythmicContrast: 0.5293455424252898
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: Puls
